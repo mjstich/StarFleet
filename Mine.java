@@ -1,3 +1,6 @@
+// Class used to represent a mine.  The data is the x and y offset relative to the ship, the depth in the cuboid, and 
+// a flag indicating if the mine is active.
+
 public class Mine {
     private int xOffset;
     private int yOffset;

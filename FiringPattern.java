@@ -1,3 +1,4 @@
+// Class used to represent the firing patterns to apply to the cuboid.
 public enum FiringPattern {
     alpha, beta, gamma, delta;
 
