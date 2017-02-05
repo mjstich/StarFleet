@@ -43,7 +43,7 @@ public class Mine {
     }
 
     public boolean canTrigger() {
-        return active && ((z >= 27 && z <= 52) || (z >= 1 && z <= 26)); 
+        return active && (z >= 1 && z <= 52); 
     }
 
     public String toString() {
