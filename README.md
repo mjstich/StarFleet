@@ -9,4 +9,6 @@ javac StartFleet.java
 
 Run:
 
+```
 java StartFleet <fieldfile> <scriptfile>
+```
