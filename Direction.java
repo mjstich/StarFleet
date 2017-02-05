@@ -6,8 +6,8 @@ public enum Direction {
 
     // Constructor 
     private Direction(int xOffset, int yOffset) {
-    	this.xOffset = xOffset;
-    	this.yOffset = yOffset;
+        this.xOffset = xOffset;
+        this.yOffset = yOffset;
     }
 
     public int xOffset() {
@@ -15,6 +15,6 @@ public enum Direction {
     }
 
     public int yOffset() {
-    	return yOffset;
+        return yOffset;
     }
 }
